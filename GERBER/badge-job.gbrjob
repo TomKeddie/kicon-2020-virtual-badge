@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "5.99.0-unknown-748bee1bc~104~ubuntu20.04.1"
+      "Version": "5.99.0-unknown-022839a5a~104~ubuntu20.04.1"
     },
-    "CreationDate": "2020-09-24T12:18:18+09:30"
+    "CreationDate": "2020-09-24T10:22:25-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "0.1"
     },
     "Size": {
-      "X": 0.0,
-      "Y": 0.0
+      "X": 102.55,
+      "Y": 102.5501
     },
     "LayerNumber": 4,
     "BoardThickness": 1.6,
@@ -34,7 +34,7 @@
       "PadToPad": 0.18,
       "PadToTrack": 0.18,
       "TrackToTrack": 0.18,
-      "MinLineWidth": 0.15,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.2,
       "RegionToRegion": 0.2
     }
@@ -71,12 +71,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "badge-F_SilkS.gto",
+      "Path": "badge-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "badge-B_SilkS.gbo",
+      "Path": "badge-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
